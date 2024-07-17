@@ -76,7 +76,6 @@ print(result)
       "state": "California"
     },
     "location2": {
-      "zipcode": "90013",
       "latitude": "34.044662",
       "longitude": "-118.24255",
       "city": "Los Angeles",
